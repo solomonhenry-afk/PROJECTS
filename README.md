@@ -10,11 +10,17 @@ I’m **Bassey Solomon Henry**, an **Architect** with 8+ years of professional p
 
 My unique background allows me to bridge **technical defense** and **business trust**, turning complex security principles into measurable business outcomes.
 Bringing with me a Design-First Mindset that helps me Build not just Secure Systems, but Resilient Frameworks that Scale like Real-World Structures. 
+
 -I specialize in Governance, Risk, and Compliance (GRC) Automation, with practical experience in mapping ISO/NIST frameworks, developing predictive compliance analytics, and integrating DevSecOps pipelines with cloud governance controls. 
+
 -My recent project, Lighthouse Technology — GRC Controls Framework Analytics, demonstrates a full-stack implementation of enterprise-grade compliance intelligence, automated reporting, and audit readiness tracking. Focused on transforming manual compliance into predictive, data-driven governance. 
+
 -Reduced Organizational Attack Surfaces by 65% through Proactive Defense Engineering.-Increased Threat Detection Speed by 40%, Ensuring Faster Incident Response and Risk Mitigation.
+
 -Secured 20+ Mission-Critical Systems without a Single Breach. 
+
 -I Designed and Deployed a Live Interactive Cybersecurity Business Plan Website (with typewriter animations + embedded slides) to Demonstrate my Ability to Translate Security Threats into Measurable Business Outcomes.
+
 ---
 
 ## 🧠 Expertise Snapshot
