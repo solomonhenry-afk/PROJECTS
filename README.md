@@ -93,7 +93,7 @@ In **Tech**, I apply the same principles to Build Cloud-Secure Infrastructures.
 ---
 
 ## 🧩 Portfolio & Contact
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/solomonhenry-afk)
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/bassey-solomon-henry
 - 🧱 [GitHub Portfolio](https://github.com/solomonhenry-afk)
 - 📬 Email: solomon_henry111@outlook.com
 
